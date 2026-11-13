@@ -1,0 +1,11 @@
+{
+  "version": "0.2.15",
+  "notes": "feat: « Afficher dans le dossier » sélectionne le vrai fichier, même ancien",
+  "pub_date": "2026-11-13T18:05:04.334Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRRjlsa3duT3YzU3JHRldtOWRmb2xTQ2NmNkxKMGN4UFhRZGJXcVNGZmJ2aWRuUlZtNnM5UXgraitJdnMzYTlGYnFQMkZITTh2bkl6djZOaXBjMnU0ajRscFJLY082NndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTkzMTAyCWZpbGU6UHJpc21fMC4yLjE1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjIuMTUKbE56SDBOS1Z0NVpJc0hkQjJnYzNoK3YzTlJzTWg1N3VKUkhKK1BvbmtWUVQvbHBNRW1HZlBGZDFLMzRUYlZ5ZXNqZE1HR1FPNVhaQ2ZSd21WdUZ0QUE9PQo=",
+      "url": "https://raw.githubusercontent.com/NeoNathoon/Prism-versions/main/Prism_0.2.15_x64-setup.exe"
+    }
+  }
+}
